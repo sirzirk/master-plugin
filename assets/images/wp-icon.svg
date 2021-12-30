@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.014" height="12.791" viewBox="0 0 20.014 12.791">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="-3" width="20.014" height="12.791" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_1" data-name="Scroll Group 1" transform="translate(0 3)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 0)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <path id="Path_1" data-name="Path 1" d="M16.771.215h-4.8a1.161,1.161,0,0,0-1.153,1.153V6.148a1.763,1.763,0,0,1-3.52.138V2.029A1.062,1.062,0,0,0,6.241.968h-.83V6.3a1.763,1.763,0,0,1-3.52-.154V6.133h0V1.06A1.067,1.067,0,0,0,.815,0H0V6.133H0v.015A3.637,3.637,0,0,0,6.349,8.577,3.646,3.646,0,0,0,12.7,6.148V2.659h0a.532.532,0,0,1,.569-.569h3.5a1.337,1.337,0,1,1,0,2.675H14.757A1.062,1.062,0,0,0,13.7,5.826V6.64h3.09A3.213,3.213,0,0,0,16.771.215Z" transform="translate(0 0)" fill="#1aacc6"/>
+        <path id="Path_2" data-name="Path 2" d="M71.641,6.6a4.831,4.831,0,0,1,.507-.409V3.883a.532.532,0,0,1,.569-.569h3.5a1.337,1.337,0,0,1,.633,2.515,5.512,5.512,0,0,1,1.37,1.347,3.205,3.205,0,0,0-2-5.737h-4.8a1.161,1.161,0,0,0-1.153,1.153V7.366a1.775,1.775,0,0,1-.023.274A5.978,5.978,0,0,0,71.641,6.6Z" transform="translate(-59.451 -1.218)" fill="#154c69"/>
+        <path id="Path_3" data-name="Path 3" d="M37.3,12.323a1.717,1.717,0,0,1-.206-.7V7.361A1.062,1.062,0,0,0,36.03,6.3H35.2v5.06a5.342,5.342,0,0,0,2.1.962Z" transform="translate(-29.789 -5.332)" fill="#154c69"/>
+        <path id="Path_4" data-name="Path 4" d="M1.891,4.135V1.06A1.067,1.067,0,0,0,.815,0H0V4.15a5.017,5.017,0,0,1,1.891-.015Z" transform="translate(0 0)" fill="#154c69"/>
+      </g>
+    </g>
+  </g>
+</svg>
